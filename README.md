@@ -42,3 +42,7 @@ Bibendum est ultricies integer quis auctor elit sed vulputate mi. Quis eleifend 
 TROUBLESHOOTING
 ---------------
 At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Phasellus vestibulum lorem sed risus.
+
+adding line for git rebase practice.
+adding line for git rebase practice 2.
+adding line for git rebase practice 3.
